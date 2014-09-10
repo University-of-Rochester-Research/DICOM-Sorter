@@ -1,0 +1,2 @@
+STUDY1 username group /path_to_data
+STUDY2 username group /path_to_data2
